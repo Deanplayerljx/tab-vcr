@@ -1,0 +1,3 @@
+## Note
+- This is the script for finding new tags. The output of the script is available in data folder ({split}_pickles_first_sense_match). If you want to run it on your own, you need to download the lightweight tsv file mentioned in `data` folder.
+- To run this script, do `python similarity_match_first_sense.py -split {val/train/test} -out {output_folder_name}`. The output will be saved into `../data/{split}_pickles_{output_folder_name}`.
