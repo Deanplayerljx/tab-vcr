@@ -34,6 +34,9 @@ pip uninstall pillow && CC="cc -mavx2" pip install -U --force-reinstall pillow-s
 
 4. Now to set up the environment, run `source activate r2c && export PYTHONPATH={path_to_this_repo}`.
 
+# Train/Evaluate models
+Please refer to `models/README.md`.
+
 ### Bibtex
 
 Coming Soon
