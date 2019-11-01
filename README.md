@@ -1,10 +1,11 @@
 # TAB-VCR: Tags and Attributes based VCR Baselines
 
 This repository contains data and PyTorch code for the paper TAB-VCR: Tags and Attributes based VCR Baselines. arxiv link will be released soon.
+Authors: Jingxiang Lin, [Unnat Jain](https://unnat.github.io), [Alexander G. Swching](http://www.alexander-schwing.de). Project page: [https://deanplayerljx.github.io/tabvcr](https://deanplayerljx.github.io/tabvcr)
 
 # Setting up and using the repo
 
-This repo is based on the [VCR dataset repo](https://github.com/rowanz/r2c). The setup process is pretty the same.
+This repo is based on the [VCR dataset repo](https://github.com/rowanz/r2c). The setup process is pretty much the same.
 
 1. Get the dataset. Follow the steps in `data/README.md`. 
 
@@ -38,5 +39,12 @@ pip uninstall pillow && CC="cc -mavx2" pip install -U --force-reinstall pillow-s
 Please refer to `models/README.md`.
 
 ### Bibtex
-
+```
+@inproceedings{LinNeurIPS2019,
+  author = {J. Lin and U. Jain and A.~G. Schwing},
+  title = {{TAB-VCR: Tags and Attributes based VCR Baselines}},
+  booktitle = {Conference on Neural Information Processing Systems (NeurIPS)},
+  year = {2019},
+}
+```
 Coming Soon

@@ -19,15 +19,9 @@ Running TAB-VCR requires pre-computed representations in this folder.
     
   
 2. Attribute and New Tag features generated using code in [Bottom Up Attention](https://github.com/peteanderson80/bottom-up-attention), released by paper [Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering, Peter Anderson et al., 2018](https://arxiv.org/abs/1707.07998):
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/attribute_features_train.h5`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/attribute_features_val.h5`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/attribute_features_test.h5`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_train.h5`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_val.h5`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_test.h5`
+    * `https://drive.google.com/open?id=1e6Ei9dadYSAcznKt6VOixkY4VOKO2wgF`
+    * `https://drive.google.com/open?id=1ajEVwLxJRCVhnhGKeBzvbeojSHczE4vJ`
   
 3. (optional) Lightweight new tag features (bounding box info only). Needed only if you want to run new tag matching script in `similarity_match` folder on your own. 
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_light_weight_train.tsv`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_light_weight_val.tsv`
-    * `https://vcr-bert.s3.amazonaws.com/bert_options/new_tag_features_light_weight_test_.tsv`
+    * `https://drive.google.com/open?id=1e6Ei9dadYSAcznKt6VOixkY4VOKO2wgF`
     
