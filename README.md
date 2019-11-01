@@ -1,7 +1,10 @@
 # TAB-VCR: Tags and Attributes based VCR Baselines
 
-This repository contains data and PyTorch code for the paper TAB-VCR: Tags and Attributes based VCR Baselines. arxiv link will be released soon.
-Authors: Jingxiang Lin, [Unnat Jain](https://unnat.github.io), [Alexander G. Swching](http://www.alexander-schwing.de). Project page: [https://deanplayerljx.github.io/tabvcr](https://deanplayerljx.github.io/tabvcr)
+This repository contains data and PyTorch code for the paper [TAB-VCR: Tags and Attributes based VCR Baselines](https://128.84.21.199/abs/1910.14671). 
+
+Authors: Jingxiang Lin, [Unnat Jain](https://unnat.github.io), [Alexander G. Swching](http://www.alexander-schwing.de). 
+
+Please check out the [project page](https://deanplayerljx.github.io/tabvcr) for more info.
 
 # Setting up and using the repo
 
@@ -47,4 +50,3 @@ Please refer to `models/README.md`.
   year = {2019},
 }
 ```
-Coming Soon
