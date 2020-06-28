@@ -1,6 +1,6 @@
-# TAB-VCR: Tags and Attributes based VCR Baselines
+# TAB-VCR: Tags and Attributes based Visual Commonsense Reasoning Baselines
 
-This repository contains data and PyTorch code for the paper [TAB-VCR: Tags and Attributes based VCR Baselines](https://128.84.21.199/abs/1910.14671). 
+This repository contains data and PyTorch code for the paper [TAB-VCR: Tags and Attributes based Visual Commonsense Reasoning Baselines](https://arxiv.org/abs/1910.14671). 
 
 Authors: Jingxiang Lin, [Unnat Jain](https://unnat.github.io), [Alexander G. Swching](http://www.alexander-schwing.de). 
 
